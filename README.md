@@ -81,16 +81,15 @@ PowerBI/
     └── Overview.png
 
 In README, display screenshots:
+# Dashboard Screenshots
 
-## Dashboard Screenshots
+## Summary Dashboard
 
-### Summary Dashboard
+![Summary Dashboard](./Summary.png)
 
-![Summary Dashboard](PowerBI/Dashboard_Screenshots/Summary.png)
+## Overview Dashboard
 
-### Overview Dashboard
-
-![Overview Dashboard](PowerBI/Dashboard_Screenshots/Overview.png)
+![Overview Dashboard](./Overview.png)
 6. Git Commands
 
 Create repository locally:
