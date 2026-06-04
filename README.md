@@ -1,7 +1,7 @@
 # Personal Loan Analytics Dashboard
 ## Project Overview
 
-This project analyzes a Personal Loan Portfolio using SQL, Excel, and Power BI. The dashboard provides insights into loan applications, funded amounts, repayments, loan status, customer profiles, interest rates, and debt-to-income ratios to support data-driven lending decisions.
+This project analyzes a Personal Loan Portfolio using SQL, Excel,Power BI and Tableau. The dashboard provides insights into loan applications, funded amounts, repayments, loan status, customer profiles, interest rates, and debt-to-income ratios to support data-driven lending decisions.
 
 ## Tools & Technologies
 SQL
@@ -9,6 +9,7 @@ Power BI
 Microsoft Excel
 Power Query
 DAX
+Tableau
 ## Business Objective
 
 The objective of this project is to monitor loan portfolio performance, identify lending trends, evaluate repayment behavior, and assess credit risk using interactive dashboards.
@@ -69,7 +70,7 @@ Author
 
 Akshay Sargar
 
-Data Analyst | SQL | Power BI | Excel
+Data Analyst | SQL | Tableau | Power BI | Excel
 
 5. Upload Screenshots
 
@@ -134,16 +135,3 @@ Updated project documentation and screenshots
 Final version:
 
 Completed end-to-end Personal Loan Analytics project
-8. GitHub Repository Description
-End-to-end Personal Loan Analytics Dashboard using SQL, Excel, and Power BI for loan portfolio monitoring, risk analysis, repayment tracking, and business insights.
-9. GitHub Topics (Tags)
-powerbi
-sql
-data-analysis
-dashboard
-banking
-loan-analysis
-finance
-excel
-business-intelligence
-data-analytics
